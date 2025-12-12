@@ -19,7 +19,7 @@ namespace OutlookGoogleCalendarSync.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -66,6 +66,26 @@ namespace OutlookGoogleCalendarSync.Properties {
         internal static System.Drawing.Bitmap animated_tray_icon_strip_64x {
             get {
                 object obj = ResourceManager.GetObject("animated_tray_icon_strip_64x", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap bluesky {
+            get {
+                object obj = ResourceManager.GetObject("bluesky", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap bluesky_follow {
+            get {
+                object obj = ResourceManager.GetObject("bluesky_follow", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -206,26 +226,6 @@ namespace OutlookGoogleCalendarSync.Properties {
         internal static System.Drawing.Bitmap sync {
             get {
                 object obj = ResourceManager.GetObject("sync", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap bluesky {
-            get {
-                object obj = ResourceManager.GetObject("bluesky", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap bluesky_follow {
-            get {
-                object obj = ResourceManager.GetObject("bluesky_follow", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

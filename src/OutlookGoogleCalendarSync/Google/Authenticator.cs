@@ -122,7 +122,7 @@ namespace OutlookGoogleCalendarSync.Google {
                 if (authenticated && !SufficientPermissions) File.Delete(tokenFullPath);
 
                 //This will open the authorisation process in a browser, if required
-                credential = await GoogleWebAuthorizationBroker.AuthorizeAsync(cs, requiredScopes, "user", CancelTokenSource.Token, tokenStore);
+                credential = await GoogleWebAuthorizationBroker.AuthorizeAsync(cs, requiredScopes, "user", CancelTokenSource.Token, tokenStore, new CustomCodeReciever());
                 if (tokenFileExists) {
                     log.Debug("User has completed Google authorisation and credential file saved. Checking granular permissions...");
 

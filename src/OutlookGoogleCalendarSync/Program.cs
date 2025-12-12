@@ -6,6 +6,8 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Windows.Forms;
+using System.Diagnostics;
+using System.Security.Policy;
 
 namespace OutlookGoogleCalendarSync {
     /// <summary>
@@ -52,6 +54,7 @@ namespace OutlookGoogleCalendarSync {
 
         [STAThread]
         private static void Main(string[] args) {
+            //AppContext.SetSwitch("System.Diagnostics.Process.UseLegacyShellExecuteWindows", true);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
@@ -524,7 +527,7 @@ namespace OutlookGoogleCalendarSync {
                         byte[] plainTextBytes = System.Text.Encoding.UTF8.GetBytes(Settings.Instance.GaccountEmail);
                         releaseNotesUrl += "?id=" + System.Convert.ToBase64String(plainTextBytes);
                     }
-                    Helper.OpenBrowser(OgcsWebsite + releaseNotesUrl);
+                    //Helper.OpenBrowser(OgcsWebsite + releaseNotesUrl);
                     if (isSquirrelInstall) {
                         new Telemetry.GA4Event.Event(Telemetry.GA4Event.Event.Name.squirrel)
                             .AddParameter(GA4.Squirrel.upgraded_from, settingsVersion)
