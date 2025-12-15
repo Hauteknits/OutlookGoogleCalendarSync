@@ -24,7 +24,7 @@
     <LangVersion>latest</LangVersion>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFrameworkProfile />
-    <PublishUrl>publish\</PublishUrl>
+    <PublishUrl>C:\Users\holde\Documents\GitHub\OutlookGoogleCalendarSync\build\</PublishUrl>
     <Install>false</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -36,7 +36,6 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ProductName>Outlook Google Calendar Sync</ProductName>
     <PublisherName>Paul Woolcock</PublisherName>
-    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>2.5.0.0</ApplicationVersion>

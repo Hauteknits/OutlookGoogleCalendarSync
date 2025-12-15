@@ -2087,12 +2087,7 @@ namespace OutlookGoogleCalendarSync.Forms {
         public int MinSyncMinutes {
             get {
                 if (Program.InDeveloperMode) return 1;
-                else {
-                    if (ActiveCalendarProfile.OutlookPush && ActiveCalendarProfile.SyncDirection.Id != Sync.Direction.GoogleToOutlook.Id)
-                        return 120;
-                    else
-                        return 15;
-                }
+                else return 15;
             }
         }
 
