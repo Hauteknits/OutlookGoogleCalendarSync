@@ -3,20 +3,37 @@
   "WorkspaceRootPath": "C:\\Users\\holde\\Documents\\GitHub\\OutlookGoogleCalendarSync\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\holde\\AppData\\Local\\SourceServer\\84a23d883fb22957bca85cd2ada3c3dc42f2b9faff56bafa0923dc469de8e37a\\Src\\Support\\Google.Apis.Auth\\OAuth2\\LocalServerCodeReceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B35C9DB2-79BC-46A3-9BE4-BCE33BC3721E}|OutlookGoogleCalendarSync\\OutlookGoogleCalendarSync.csproj|c:\\users\\holde\\documents\\github\\outlookgooglecalendarsync\\src\\outlookgooglecalendarsync\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35C9DB2-79BC-46A3-9BE4-BCE33BC3721E}|OutlookGoogleCalendarSync\\OutlookGoogleCalendarSync.csproj|solutionrelative:outlookgooglecalendarsync\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\holde\\AppData\\Local\\Temp\\.vsdbgsrc\\b42d19683fc05fd837d81fbd752fa5e1d4f5b2e53c3501eb170cc666a273ed6a\\AuthorizationCodeInstalledApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B35C9DB2-79BC-46A3-9BE4-BCE33BC3721E}|OutlookGoogleCalendarSync\\OutlookGoogleCalendarSync.csproj|c:\\users\\holde\\documents\\github\\outlookgooglecalendarsync\\src\\outlookgooglecalendarsync\\settingsstore\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35C9DB2-79BC-46A3-9BE4-BCE33BC3721E}|OutlookGoogleCalendarSync\\OutlookGoogleCalendarSync.csproj|solutionrelative:outlookgooglecalendarsync\\settingsstore\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35C9DB2-79BC-46A3-9BE4-BCE33BC3721E}|OutlookGoogleCalendarSync\\OutlookGoogleCalendarSync.csproj|c:\\users\\holde\\documents\\github\\outlookgooglecalendarsync\\src\\outlookgooglecalendarsync\\sync\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35C9DB2-79BC-46A3-9BE4-BCE33BC3721E}|OutlookGoogleCalendarSync\\OutlookGoogleCalendarSync.csproj|solutionrelative:outlookgooglecalendarsync\\sync\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35C9DB2-79BC-46A3-9BE4-BCE33BC3721E}|OutlookGoogleCalendarSync\\OutlookGoogleCalendarSync.csproj|c:\\users\\holde\\documents\\github\\outlookgooglecalendarsync\\src\\outlookgooglecalendarsync\\settingsstore\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35C9DB2-79BC-46A3-9BE4-BCE33BC3721E}|OutlookGoogleCalendarSync\\OutlookGoogleCalendarSync.csproj|solutionrelative:outlookgooglecalendarsync\\settingsstore\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B35C9DB2-79BC-46A3-9BE4-BCE33BC3721E}|OutlookGoogleCalendarSync\\OutlookGoogleCalendarSync.csproj|C:\\Users\\holde\\Documents\\GitHub\\OutlookGoogleCalendarSync\\src\\outlookgooglecalendarsync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B35C9DB2-79BC-46A3-9BE4-BCE33BC3721E}|OutlookGoogleCalendarSync\\OutlookGoogleCalendarSync.csproj|solutionrelative:outlookgooglecalendarsync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\holde\\AppData\\Local\\Temp\\.vsdbgsrc\\c8c6af74d2f6654dcda0b66e578357a7e506a18f764c848819a35bf872f5b656\\LocalServerCodeReceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B35C9DB2-79BC-46A3-9BE4-BCE33BC3721E}|OutlookGoogleCalendarSync\\OutlookGoogleCalendarSync.csproj|C:\\Users\\holde\\Documents\\GitHub\\OutlookGoogleCalendarSync\\src\\outlookgooglecalendarsync\\patches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35C9DB2-79BC-46A3-9BE4-BCE33BC3721E}|OutlookGoogleCalendarSync\\OutlookGoogleCalendarSync.csproj|solutionrelative:outlookgooglecalendarsync\\patches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\holde\\AppData\\Local\\Temp\\.vsdbgsrc\\e2614d974ec7762c4a2443f7ee4f64f5d536faf51172fff693e393a60ac3fc08\\Process.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\holde\\AppData\\Local\\SourceServer\\84a23d883fb22957bca85cd2ada3c3dc42f2b9faff56bafa0923dc469de8e37a\\Src\\Support\\Google.Apis.Auth\\OAuth2\\LocalServerCodeReceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\holde\\AppData\\Local\\Temp\\.vsdbgsrc\\c8c6af74d2f6654dcda0b66e578357a7e506a18f764c848819a35bf872f5b656\\LocalServerCodeReceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\holde\\AppData\\Local\\Temp\\.vsdbgsrc\\300b349c561a81bdd1a2f3fff909067b056b2d2ed33b66dd0dd8ff0b38cb8731\\GoogleWebAuthorizationBroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -32,7 +49,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,20 +57,83 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Process.cs",
-              "DocumentMoniker": "C:\\Users\\holde\\AppData\\Local\\Temp\\.vsdbgsrc\\e2614d974ec7762c4a2443f7ee4f64f5d536faf51172fff693e393a60ac3fc08\\Process.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e2614d974ec7762c4a2443f7ee4f64f5d536faf51172fff693e393a60ac3fc08\\Process.cs",
-              "ToolTip": "C:\\Users\\holde\\AppData\\Local\\Temp\\.vsdbgsrc\\e2614d974ec7762c4a2443f7ee4f64f5d536faf51172fff693e393a60ac3fc08\\Process.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e2614d974ec7762c4a2443f7ee4f64f5d536faf51172fff693e393a60ac3fc08\\Process.cs [Read Only]",
-              "ViewState": "AgIAAJ8JAAAAAAAAAAAcwK8JAAACAAAAAQAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\holde\\Documents\\GitHub\\OutlookGoogleCalendarSync\\src\\OutlookGoogleCalendarSync\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "OutlookGoogleCalendarSync\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\holde\\Documents\\GitHub\\OutlookGoogleCalendarSync\\src\\OutlookGoogleCalendarSync\\Forms\\MainForm.cs",
+              "RelativeToolTip": "OutlookGoogleCalendarSync\\Forms\\MainForm.cs",
+              "ViewState": "AgIAABsFAAAAAAAAAAAlwCgIAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T21:49:21.68Z",
-              "EditorCaption": " [Read Only]"
+              "WhenOpened": "2025-12-15T01:04:18.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Calendar.cs",
+              "DocumentMoniker": "C:\\Users\\holde\\Documents\\GitHub\\OutlookGoogleCalendarSync\\src\\OutlookGoogleCalendarSync\\SettingsStore\\Calendar.cs",
+              "RelativeDocumentMoniker": "OutlookGoogleCalendarSync\\SettingsStore\\Calendar.cs",
+              "ToolTip": "C:\\Users\\holde\\Documents\\GitHub\\OutlookGoogleCalendarSync\\src\\OutlookGoogleCalendarSync\\SettingsStore\\Calendar.cs",
+              "RelativeToolTip": "OutlookGoogleCalendarSync\\SettingsStore\\Calendar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T01:00:59.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\holde\\Documents\\GitHub\\OutlookGoogleCalendarSync\\src\\OutlookGoogleCalendarSync\\Sync\\Engine.cs",
+              "RelativeDocumentMoniker": "OutlookGoogleCalendarSync\\Sync\\Engine.cs",
+              "ToolTip": "C:\\Users\\holde\\Documents\\GitHub\\OutlookGoogleCalendarSync\\src\\OutlookGoogleCalendarSync\\Sync\\Engine.cs",
+              "RelativeToolTip": "OutlookGoogleCalendarSync\\Sync\\Engine.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T01:00:37.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\holde\\Documents\\GitHub\\OutlookGoogleCalendarSync\\src\\OutlookGoogleCalendarSync\\SettingsStore\\Settings.cs",
+              "RelativeDocumentMoniker": "OutlookGoogleCalendarSync\\SettingsStore\\Settings.cs",
+              "ToolTip": "C:\\Users\\holde\\Documents\\GitHub\\OutlookGoogleCalendarSync\\src\\OutlookGoogleCalendarSync\\SettingsStore\\Settings.cs",
+              "RelativeToolTip": "OutlookGoogleCalendarSync\\SettingsStore\\Settings.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAewFkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T00:46:41.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patches.cs",
+              "DocumentMoniker": "C:\\Users\\holde\\Documents\\GitHub\\OutlookGoogleCalendarSync\\src\\OutlookGoogleCalendarSync\\Patches.cs",
+              "RelativeDocumentMoniker": "OutlookGoogleCalendarSync\\Patches.cs",
+              "ToolTip": "C:\\Users\\holde\\Documents\\GitHub\\OutlookGoogleCalendarSync\\src\\OutlookGoogleCalendarSync\\Patches.cs",
+              "RelativeToolTip": "OutlookGoogleCalendarSync\\Patches.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T00:38:53.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Process.cs",
+              "DocumentMoniker": "C:\\Users\\holde\\AppData\\Local\\Temp\\.vsdbgsrc\\e2614d974ec7762c4a2443f7ee4f64f5d536faf51172fff693e393a60ac3fc08\\Process.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e2614d974ec7762c4a2443f7ee4f64f5d536faf51172fff693e393a60ac3fc08\\Process.cs",
+              "ToolTip": "C:\\Users\\holde\\AppData\\Local\\Temp\\.vsdbgsrc\\e2614d974ec7762c4a2443f7ee4f64f5d536faf51172fff693e393a60ac3fc08\\Process.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\e2614d974ec7762c4a2443f7ee4f64f5d536faf51172fff693e393a60ac3fc08\\Process.cs",
+              "ViewState": "AgIAAJ4JAAAAAAAAAAAcwK8JAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T21:49:21.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "LocalServerCodeReceiver.cs",
               "DocumentMoniker": "C:\\Users\\holde\\AppData\\Local\\SourceServer\\84a23d883fb22957bca85cd2ada3c3dc42f2b9faff56bafa0923dc469de8e37a\\Src\\Support\\Google.Apis.Auth\\OAuth2\\LocalServerCodeReceiver.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\84a23d883fb22957bca85cd2ada3c3dc42f2b9faff56bafa0923dc469de8e37a\\Src\\Support\\Google.Apis.Auth\\OAuth2\\LocalServerCodeReceiver.cs",
@@ -61,25 +141,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\84a23d883fb22957bca85cd2ada3c3dc42f2b9faff56bafa0923dc469de8e37a\\Src\\Support\\Google.Apis.Auth\\OAuth2\\LocalServerCodeReceiver.cs",
               "ViewState": "AgIAAOkBAAAAAAAAAAAAAPkBAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T20:50:05.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T20:50:05.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthorizationCodeInstalledApp.cs",
-              "DocumentMoniker": "C:\\Users\\holde\\AppData\\Local\\Temp\\.vsdbgsrc\\b42d19683fc05fd837d81fbd752fa5e1d4f5b2e53c3501eb170cc666a273ed6a\\AuthorizationCodeInstalledApp.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b42d19683fc05fd837d81fbd752fa5e1d4f5b2e53c3501eb170cc666a273ed6a\\AuthorizationCodeInstalledApp.cs",
-              "ToolTip": "C:\\Users\\holde\\AppData\\Local\\Temp\\.vsdbgsrc\\b42d19683fc05fd837d81fbd752fa5e1d4f5b2e53c3501eb170cc666a273ed6a\\AuthorizationCodeInstalledApp.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b42d19683fc05fd837d81fbd752fa5e1d4f5b2e53c3501eb170cc666a273ed6a\\AuthorizationCodeInstalledApp.cs [Read Only]",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAAAFoAAAAAAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T21:23:57.447Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "LocalServerCodeReceiver.cs",
               "DocumentMoniker": "C:\\Users\\holde\\AppData\\Local\\Temp\\.vsdbgsrc\\c8c6af74d2f6654dcda0b66e578357a7e506a18f764c848819a35bf872f5b656\\LocalServerCodeReceiver.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c8c6af74d2f6654dcda0b66e578357a7e506a18f764c848819a35bf872f5b656\\LocalServerCodeReceiver.cs",
@@ -92,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "GoogleWebAuthorizationBroker.cs",
               "DocumentMoniker": "C:\\Users\\holde\\AppData\\Local\\Temp\\.vsdbgsrc\\300b349c561a81bdd1a2f3fff909067b056b2d2ed33b66dd0dd8ff0b38cb8731\\GoogleWebAuthorizationBroker.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\300b349c561a81bdd1a2f3fff909067b056b2d2ed33b66dd0dd8ff0b38cb8731\\GoogleWebAuthorizationBroker.cs",
@@ -105,20 +171,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\holde\\Documents\\GitHub\\OutlookGoogleCalendarSync\\src\\OutlookGoogleCalendarSync\\Program.cs",
               "RelativeDocumentMoniker": "OutlookGoogleCalendarSync\\Program.cs",
               "ToolTip": "C:\\Users\\holde\\Documents\\GitHub\\OutlookGoogleCalendarSync\\src\\OutlookGoogleCalendarSync\\Program.cs",
               "RelativeToolTip": "OutlookGoogleCalendarSync\\Program.cs",
-              "ViewState": "AgIAAAICAAAAAAAAAAD4vxECAABIAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAApwFQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T19:26:40.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T19:26:40.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "AuthorizationCodeInstalledApp.cs",
               "DocumentMoniker": "C:\\Users\\holde\\AppData\\Local\\SourceServer\\cd5b858bfb85b65f1acf55e6c09839ff0a3e36a926f804d939fd0c78e69bde0d\\Src\\Support\\Google.Apis.Auth\\OAuth2\\AuthorizationCodeInstalledApp.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\cd5b858bfb85b65f1acf55e6c09839ff0a3e36a926f804d939fd0c78e69bde0d\\Src\\Support\\Google.Apis.Auth\\OAuth2\\AuthorizationCodeInstalledApp.cs",
@@ -126,8 +191,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\cd5b858bfb85b65f1acf55e6c09839ff0a3e36a926f804d939fd0c78e69bde0d\\Src\\Support\\Google.Apis.Auth\\OAuth2\\AuthorizationCodeInstalledApp.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAD4v1MAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T20:51:37.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-12T20:51:37.184Z"
             }
           ]
         }
