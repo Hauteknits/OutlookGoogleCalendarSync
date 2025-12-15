@@ -60,11 +60,15 @@ namespace OutlookGoogleCalendarSync.Google {
 
         protected override bool OpenBrowser(string url) {
             log.Debug("URL: " + url);
-            Process.Start(new ProcessStartInfo {
-                FileName = "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
-                Arguments = url,
-                UseShellExecute = false
-            });
+            if (File.Exists("C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe")) {
+                Process.Start(new ProcessStartInfo {
+                    FileName = "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+                    Arguments = url,
+                    UseShellExecute = false
+                });
+            } else {
+                Process.Start(url);
+            }
             return true;
         }
     }
