@@ -40,7 +40,7 @@ namespace OutlookGoogleCalendarSync.Forms {
             gbAppBehaviour_Proxy.MinimumSize =
             gbAppBehaviour_Logging.MinimumSize = new System.Drawing.Size(0, 0);
 
-            Program.Updater.CheckForUpdate();
+            //Program.Updater.CheckForUpdate();
 
             if (startingTab != null && startingTab == "Help") this.tabApp.SelectedTab = this.tabPage_Help;
 
@@ -2546,7 +2546,8 @@ namespace OutlookGoogleCalendarSync.Forms {
         }
 
         private void btCheckForUpdate_Click(object sender, EventArgs e) {
-            Program.Updater.CheckForUpdate(btCheckForUpdate);
+            //Program.Updater.CheckForUpdate(btCheckForUpdate);
+            log.Debug("Ignoring Checking for updates");
         }
         private void cbAlphaReleases_CheckedChanged(object sender, EventArgs e) {
             if (this.Visible)
