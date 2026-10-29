@@ -54,29 +54,18 @@ namespace OutlookGoogleCalendarSync.Forms {
                 if (!string.IsNullOrEmpty(subscribedDate)) subscribed = DateTime.Parse(subscribedDate); 
                 else subscribed = Ogcs.Google.Authenticator.SubscribedNever;
                 
-                Boolean hideSplash = (XMLManager.ImportElement("HideSplashScreen", Settings.ConfigFile) ?? "false") == "true";
+                Boolean hideSplash = true;
                 initialised = true;
 
                 splash.cbHideSplash.Checked = hideSplash;
-                if (subscribed == Ogcs.Google.Authenticator.SubscribedNever && !donor) {
-                    ToolTips = new ToolTip {
-                        AutoPopDelay = 10000,
-                        InitialDelay = 500,
-                        ReshowDelay = 200,
-                        ShowAlways = true
-                    };
-
-                    ToolTips.SetToolTip(splash.cbHideSplash, "Donate £10 or more to enable this feature.");
-                } else if (hideSplash) {
-                    log.Debug("Suppressing splash screen.");
-                    return;
-                }
-                splash.TopLevel = true;
-                splash.TopMost = true;
-                log.Debug("Showing splash screen.");
-                splash.ShowDialog();
-                log.Debug("Disposed of splash screen.");
-                splashThread.Abort();
+                log.Debug("Suppressing splash screen.");
+                return;
+                //splash.TopLevel = true;
+                //splash.TopMost = true;
+                //log.Debug("Showing splash screen.");
+                //splash.ShowDialog();
+                //log.Debug("Disposed of splash screen.");
+                //splashThread.Abort();
             } finally {
                 initialised = true;
                 BeenAndGone = true;
